@@ -1,2 +1,6 @@
 This is to test pull and fetch command
+<<<<<<< HEAD
 This is testing
+=======
+New update in part1
+>>>>>>> d72284cf562efe57acca32378db1dd151816f752
